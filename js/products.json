@@ -1,0 +1,34 @@
+[
+ {
+     "id": 1,
+     "title": "хуита",
+     "itemsInBox": 6,
+     "weight": 180,
+     "price": 100,
+     "imgSrc": "california-hit.jpg"
+ },
+  {
+     "id": 2,
+     "title": "хуйня",
+     "itemsInBox": 6,
+     "weight": 280,
+     "price": 150,
+     "imgSrc": "zapech-california.jpg"
+ },
+  {
+     "id": 3,
+     "title": "хуитень",
+     "itemsInBox": 6,
+     "weight": 100,
+     "price": 120,
+     "imgSrc": "philadelphia.jpg"
+ },
+  {
+     "id": 4,
+     "title": "хуище",
+     "itemsInBox": 6,
+     "weight": 180,
+     "price": 150,
+     "imgSrc": "california-tempura.jpg"
+ }   
+]
