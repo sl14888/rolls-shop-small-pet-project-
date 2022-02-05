@@ -1,7 +1,7 @@
 [
  {
      "id": 1,
-     "title": "хуита",
+     "title": "суши1",
      "itemsInBox": 6,
      "weight": 180,
      "price": 100,
@@ -9,7 +9,7 @@
  },
   {
      "id": 2,
-     "title": "хуйня",
+     "title": "суши2",
      "itemsInBox": 6,
      "weight": 280,
      "price": 150,
@@ -17,7 +17,7 @@
  },
   {
      "id": 3,
-     "title": "хуитень",
+     "title": "суши3",
      "itemsInBox": 6,
      "weight": 100,
      "price": 120,
@@ -25,7 +25,7 @@
  },
   {
      "id": 4,
-     "title": "хуище",
+     "title": "суши4",
      "itemsInBox": 6,
      "weight": 180,
      "price": 150,
